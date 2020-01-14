@@ -1,0 +1,5 @@
+开发环境：Windows10 x86-64
+编译链接工具：Windos10 x86-64,MinGw version5.0
+逻辑调试工具：Clion Bundled GDB version:8.1
+MakeFile处理工具：CMAKE version3.12.3
+IDE:CLion 2018.2.5

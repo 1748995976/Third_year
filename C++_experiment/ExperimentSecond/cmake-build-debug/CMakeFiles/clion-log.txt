@@ -1,0 +1,4 @@
+"C:\Program Files\CLion 2018.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=mingw32-make.exe -DCMAKE_C_COMPILER=mingw32-gcc.exe -DCMAKE_CXX_COMPILER=mingw32-g++.exe -G "CodeBlocks - MinGW Makefiles" D:\Third_year\C++_experiment\ExperimentSecond
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Third_year/C++_experiment/ExperimentSecond/cmake-build-debug

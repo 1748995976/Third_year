@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1879,5): warning : The referenced project '..\netsimlib\netsimlib.vcxproj' does not exist.
+  stdafx.cpp
+  GBNRdtReceiver.cpp
+  GBNRdtSender.cpp
+  Main.cpp
+  StopWaitRdtReceiver.cpp
+  StopWaitRdtSender.cpp
+  SRRdtSender.cpp
+  SRRdtReceiver.cpp
+  TCPRdtSender.cpp
+  TCPRdtReceiver.cpp
+LINK : fatal error LNK1104: 无法打开文件“D:\ComputerNetwork\Windows VS2017\netsimlib.lib”

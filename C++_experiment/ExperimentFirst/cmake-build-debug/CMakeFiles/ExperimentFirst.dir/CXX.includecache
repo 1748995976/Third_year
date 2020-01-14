@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Third_year/C++_experiment/ExperimentFirst/main.cpp
+iostream
+-
+stack.h
+D:/Third_year/C++_experiment/ExperimentFirst/stack.h
+
+D:/Third_year/C++_experiment/ExperimentFirst/stack.h
+

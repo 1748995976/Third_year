@@ -1,0 +1,3 @@
+D:/Third_year/C++_experiment/ExperimentSecond/cmake-build-debug/CMakeFiles/ExperimentSecond.dir
+D:/Third_year/C++_experiment/ExperimentSecond/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Third_year/C++_experiment/ExperimentSecond/cmake-build-debug/CMakeFiles/rebuild_cache.dir
